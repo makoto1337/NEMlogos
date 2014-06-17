@@ -1,0 +1,48 @@
+Dear Nemsters,
+ 
+As you may or may not already know, there have been some changes to the NEM team resulting in a lot of confusion on the Bitcointalk forum.
+ 
+UtopianFuture has left the team, in good faith, and there has subsequently been a reorganization to reflect his departure.
+ 
+UtopianFuture had been instrumental in organizing this project, but rest assured that the core development team is still intact. UtopianFuture's main role was coordination, providing direction and management of the voluntary association that is NEM. He was never involved in the coding. Hence, development-wise, the project is not impacted.
+ 
+NEM is based upon the principle of decentralization, such that no single person is indispensable. Since UtopianFuture left, numerous volunteers have  come forward and offered their help. We are in fact honored to know that there are many of you out there who share the same vision as the core development team of creating a new economic movement. We are now stronger than ever and have recruited some of these volunteers to the team to push our ideals forward more aggressively than ever before. Yes, we have since regrouped and are soldiering on to ensure that this project is successful!
+ 
+With the reorganisation, we have decided that there should be an entirely separate group looking after the promotion of NEM. We have now created a new Marketing Board to spearhead organizing the great NEM community and to spur our movement to greater heights. To say the least, this event has actually made us into a much stronger group.
+ 
+As a result of the events that have transpired, there have been many unsubstantiated speculations and postulations about what happened. Most of these statements have been emotionally charged and are without any factual basis. These misleading claims have left the community confused.
+ 
+We would like to take this opportunity to assure you that most of these claims are not true and that it is business as usual for the core team; you should not be influenced at all by some of the characters in the forum that purport otherwise.
+ 
+The last few months have been rather hectic and to complete a project of this size and nature requires a lot of careful planning and design. It has not been easy, but we believe with the able-bodied team that we have, we shall be meet our targets.
+ 
+In the meantime, and in order to allay the confusion, we have included links to the only official NEM threads on bitcointalk. We have also included the link to our official NEM websites and forum. If you have any questions regarding the incidents that have caused this confusion, you are most welcome to raise those questions in the forum threads or contact one of the core team members directly.
+ 
+Due to the incidents in the recent past, it was decided that a moderated thread would also be created to run alongside the un-moderated thread. Please read xtester's post about why this is necessary here: https://bitcointalk.org/index.php?topic=654845.msg7350705#msg7350705
+
+Official Links (bitcointalk)
+ 
+Main moderated NEM thread - https://bitcointalk.org/index.php?topic=654845
+Main un-moderated NEM thread https://bitcointalk.org/index.php?topic=650274.0
+Stake Request/Info Thread - https://bitcointalk.org/index.php?topic=650505.0
+Account/Stake Complaint Thread - https://bitcointalk.org/index.php?topic=650500.msg7284599#msg7284599
+
+
+Materials
+
+Investor's Handout - https://github.com/makoto1337/NEMlogos/raw/master/handout/NEMhandout.pdf
+ 
+ 
+Websites
+http://www.ournem.com/
+https://twitter.com/nemcoin
+https://www.facebook.com/ourNEM
+http://www.reddit.com/r/nem/
+https://trello.com/b/GEWEPSZJ/nem-promotion
+https://trello.com/b/9psFZ0aQ/nem-ecosystem
+ 
+If you cannot find the information you need in the links above please do not hesitate to post any question you may have on the relevant NEM thread.
+ 
+Thank you very much for your attention.
+ 
+NEM Marketing Team
