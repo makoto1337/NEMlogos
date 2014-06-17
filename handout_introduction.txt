@@ -1,0 +1,23 @@
+The New Economy Movement is a community-driven effort to realize financial freedom, decentralization, and equality of opportunity, united in solidarity. 
+
+To realize the goals of our movement, we are developing the NEM cryptocurrency consisting of the NIS (NEM Infrastructure Server) core and the NCC (NEM Community Client; aka, wallet). When fully developed, the NEM platform will be one of the most advanced decentralized blockchains with a colored coin implementation (decentralized asset exchange). Our source code is implemented from scratch in Java and Javacript (NCC). Innovations in blockchain server technology include Proof-of-Importance (POI), account rules, and Eigentrust++ peer reputation management. NCC has a distinct new wallet design that is completely different from Bitcoin QT-based wallets that almost all other coins are using. NCC design supports the innovative features in NIS and features robust security and a user friendly interface.
+
+NIS and NCC completion will mark the launch of the NEM V1 blockchain. However, that will be just the beginning, as we are prepared to go full speed to build a dynamic NEM ecosystem as soon as NIS and NCC go live and pass an open beta. The NEM ecosystem team already includes dozens of developers, and we will design an incentive system that motivates these developers to stay and help build the NEM environment. More importantly, we will attract new developers by offering a coherent vision for the NEM technology roadmap that will show our commitment to the NEM decentralized system over the long term. After launching the V1 blockchain, NEM core code will continue to be developed to add new features to support the growing NEM ecosystem.
+
+On behalf of the NEM development team I would like to invite you to take a part in our initiative to develop the NEM system. The NEM development team core members currently are:
+
+Jaguar
+Gimre
+Thies
+Makoto
+BloodyRookie
+Krysto
+TranLoi
+
+Our decentralized network needs to be nurtured by its community and we are thankful for already having a NEM community of about 3000 members. The NEM platform will draw its security from the community nodes’ support and continued expansion from community marketing efforts. In this aspect, I would like to invite you to be a part of our effort and to join our community.
+
+NEM will be created with a maximum of 4 billion units, divisible to 6 digits. We plan to distribute 75% of the total to the community at the official lunch, all with a minimum contribution of promotional effort or donation. Of the 75% of stakes to be given to the community, 71% have already been reserved and the remaining 4% will be auctioned to the public to raise money for the development fund. 25% will be reserved under control of the core development team, of which 10% is reserved to compensate the core development team for their work in fully developing NIS and NCC to the V1 blockchain specifications. 5% is reserved for the extended development team for their work on NEM promotion and the NEM ecosystem. The last 10% is reserved for future development after the completion of the V1 blockchain, including further development of the ecosystem and new features for the core blockchain.
+
+A preliminary draft of the NEM development contract has already been released, in which the above distribution plan was officially written and agreed upon by all NEM stakeholders. Until the final version of the NEM development contract is released, the stake distribution plan is subject to modifications and stakeholders are able to request a refund if they no longer wish to be a NEM contributor.
+
+If you want to help us build a new world economic order, please consider joining NEM by buying a NEM stake either on the NXT AE or during the public auction that we will announce shortly. This will entitle you to be an equal regular stakeholder with a share of 1 million NEM upon NEM's official launch. I would further invite you to contribute to NEM's promotion and ecosystem-building effort, to enjoy part of the NEM development shares reserved for these activities. Most of all, I hope you will be a long-term supporter of NEM, supporting us in building network security and spreading the word about our efforts to transform the world's current monetary system. Together we can break free from nation-state centralization, corrupted by political power, and build a new economy based on the principles of financial freedom, decentralization, and grassroot contributions. In solidarity.  
